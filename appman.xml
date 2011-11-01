@@ -4,6 +4,7 @@
 		<phone>x10</phone>
 		<dev>pvyParts and iridaki</dev>
 		<github_name>pvyParts</github_name>
+		<github_branch>TEAM</github_branch>
 		<apps>true</apps>
 		<tweaks>ture</tweaks>
 		<mods>true</mods>
@@ -16,6 +17,7 @@
 		<phone>x10</phone>
 		<dev>thJap</dev>
 		<github_name>hayashikejinan</github_name>
+		<github_branch>MASTER</github_branch>
 		<apps>true</apps>
 		<tweaks>false</tweaks>
 		<mods>false</mods>
@@ -28,6 +30,7 @@
 		<phone>x10</phone>
 		<dev>Wolfbreak</dev>
 		<github_name>Wolfbreak</github_name>
+		<github_branch>MASTER</github_branch>
 		<apps>true</apps>
 		<tweaks>true</tweaks>
 		<mods>true</mods>
