@@ -17,20 +17,20 @@
 		<phone>x10</phone>
 		<dev>thJap</dev>
 		<github_name>hayashikejinan</github_name>
-		<github_branch>MASTER</github_branch>
+		<github_branch>master</github_branch>
 		<apps>true</apps>
-		<tweaks>false</tweaks>
-		<mods>false</mods>
-		<updates>false</updates>
-		<themes>false</themes>
-		<kernels>false</kernels>
+		<tweaks>true</tweaks>
+		<mods>true</mods>
+		<updates>true</updates>
+		<themes>true</themes>
+		<kernels>true</kernels>
 	</rom>
 	<rom>
 		<rom_name>Wolf_Xperia</rom_name>
 		<phone>x10</phone>
 		<dev>Wolfbreak</dev>
 		<github_name>Wolfbreak</github_name>
-		<github_branch>MASTER</github_branch>
+		<github_branch>master</github_branch>
 		<apps>true</apps>
 		<tweaks>true</tweaks>
 		<mods>true</mods>
