@@ -1,5 +1,16 @@
 <apps>
 <app>	    
+		<name>New Android Market v3.3.11</name>
+		<moddate>02-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/3Y299TZJR8</url>
+		<version>v3.3.11</version>
+		<description>The all new Android Market by Google!</description>
+		<files>
+			<file filename="NewMarket_v3311.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/NewMarket_v3311.zip" md5="9648875f409d15344989172dfe4d5fc1" />
+		</files>
+		</app>	
+<app>	    
 		<name>TEAM V3.1</name>
 		<moddate>17-10-2011</moddate>
 		<credits>pvyParts, iridaki, AyDee</credits>
