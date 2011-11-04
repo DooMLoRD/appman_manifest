@@ -7,7 +7,7 @@
 		<version>v3.3.11</version>
 		<description>The all new Android Market by Google!</description>
 		<files>
-			<file filename="NewMarket_v3311.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/NewMarket_v3311.zip" md5="9648875f409d15344989172dfe4d5fc1" />
+			<file filename="NewMarket_v3311.zip" location="sdcard/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/NewMarket_v3311.zip" md5="9648875f409d15344989172dfe4d5fc1" />
 		</files>
 		</app>	
 <app>	    
