@@ -1,4 +1,26 @@
-<apps>	    
+<apps>
+<app>	    
+		<name>MattedPurples GB AOSP Multilanguage Keyboard</name>
+		<moddate>04-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/ZYNZIQDIPM</url>
+		<version>2.3.4</version>
+		<description>Themed GB Keyboard Purple Version</description>
+		<files>
+			<file filename="MattedPurplesMultiGBkb.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/themes/TEAM_Purple_03Nov.zip" md5="a4aad00722b31d78c8748c330ef18b0c" />
+		</files>
+	</app>	    
+<app>	    
+		<name>MattedBlues GB AOSP Multilanguage Keyboard</name>
+		<moddate>04-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/HCIJMD50WF</url>
+		<version>2.3.4</version>
+		<description>Themed GB Keyboard Blue Version</description>
+		<files>
+			<file filename="MattedBluesMultiGBkb.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/themes/TEAM_Purple_03Nov.zip" md5="d67833d5b360b3817ead6ed85cf53ea0" />
+		</files>
+	</app>	    
 <app>	    
 		<name>Purple Theme T.E.A.M</name>
 		<moddate>03-11-2011</moddate>
