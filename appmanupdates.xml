@@ -7,7 +7,7 @@
 		<version>Revision 08 version 4</version>
 		<description>ThKernel - xRecovery version - Flash in xRecovery</description>
 		<files>
-			<file filename="xRec_ThJapRev08-4.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/xRec_ThJapRev08-4.zip" md5="6887873bcbab820b5bf4f8eed8650c99" />
+			<file filename="xRec_ThJapRev07.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/xRec_ThJapRev07.zip" md5="6887873bcbab820b5bf4f8eed8650c99" />
 		</files>
 		</app>	
 	<app>	    
@@ -18,7 +18,7 @@
 		<version>Revision 08 version 4</version>
 		<description>ThKernel - Boot Manager version - Select in Boot Manager</description>
 		<files>
-			<file filename="BootMgr_ThJapRev08-4.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BootMgr_ThJapRev08-4.zip" md5="ea270ef445b891d27deb081687ee576c" />
+			<file filename="BootMgr_ThJapRev07.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BootMgr_ThJapRev07.zip" md5="ea270ef445b891d27deb081687ee576c" />
 		</files>
 		</app>	
 <app>	    
