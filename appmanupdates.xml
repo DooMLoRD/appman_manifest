@@ -44,17 +44,6 @@
 			<file filename="NewMarket_v3311.zip" location="sdcard/appman" perms="0644" appurl="http://android.magnificentblog.com/files/updates/NewMarket_v3311.zip" md5="9648875f409d15344989172dfe4d5fc1" />
 		</files>
 		</app>	
-<app>	    
-		<name>TEAM V3.1</name>
-		<moddate>17-10-2011</moddate>
-		<credits>pvyParts, iridaki, AyDee</credits>
-		<url>http://www.multiupload.com/V017NU8RCP</url>
-		<version>v3.1</version>
-		<description>TEAM V3.1 - Bugfixes, New Home, New Talk, New Camera</description>
-		<files>
-			<file filename="TEAM-v3.1-FIX.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM-v3.1-FIX.zip" md5="5b264092c4d27e53c5dbb8dc413a09f2" />
-		</files>
-		</app>	
 	<app>	    
 		<name>TEAM V3 ThKernel (BOOTMANAGER)</name>
 		<moddate>12-10-2011</moddate>
