@@ -1,4 +1,15 @@
 <apps>
+	<app>	    
+		<name>TEAM ThKernel Rev08.4 (BOOTMANAGER)</name>
+		<moddate>08-11-2011</moddate>
+		<credits>ThJap</credits>
+		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
+		<version>Revision 08 version 4</version>
+		<description>ThKernel - Boot Manager version - Select in Boot Manager</description>
+		<files>
+			<file filename="BootMgr_ThJapRev08-4.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BootMgr_ThJapRev08-4.zip" md5="ea270ef445b891d27deb081687ee576c" />
+		</files>
+		</app>	
 <app>	    
 		<name>TEAM V3.1</name>
 		<moddate>17-10-2011</moddate>
