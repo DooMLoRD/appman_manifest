@@ -52,7 +52,7 @@
 		<version>v3</version>
 		<description>TEAM V3 powered by ThKernel - Boot Manager version - Select in Boot Manager</description>
 		<files>
-			<file filename="BM_2.3Th_kernel_029e.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BM_2.3Th_kernel_029e.zip" md5="8f35a802111e013ee42973678f884500" />
+			<file filename="BM_2.3Th_kernel_029e.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BM_2.3Th_kernel_029e.zip" md5="271c1fb5b0dad535c32edc36a8691bea" />
 		</files>
 		</app>	
 	<app>	    
@@ -63,7 +63,7 @@
 		<version>v3</version>
 		<description>TEAM V3 powered by ThKernel - stock kernel version - Flash in xRecovery</description>
 		<files>
-			<file filename="ST_Th_kernel_029e6.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/ST_Th_kernel_029e6.zip" md5="a03acaa1cc94d6ece291046837e99073" />
+			<file filename="ST_Th_kernel_029e6.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/ST_Th_kernel_029e6.zip" md5="632ffe7b4b07654061c238f98c3362cb" />
 		</files>
 	</app>	  	
 	<app>	    
