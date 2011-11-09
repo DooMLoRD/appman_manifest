@@ -1,5 +1,16 @@
 <apps>
 <app>	    
+		<name>Back to Black Popups</name>
+		<moddate>09-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/</url>
+		<version>for TEAM v3.8</version>
+		<description>Back to Black V3.5 Style Popups</description>
+		<files>
+			<file filename="Back-To-Black-Popups-3.8.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/themes/Back-To-Black-Popups-3.8.zip" md5="6a5605a8163ffe77c1b2bf9c1d0804b8" />
+		</files>
+	</app>	    
+<app>	    
 		<name>Purple Theme T.E.A.M</name>
 		<moddate>08-11-2011</moddate>
 		<credits>iridaki</credits>
