@@ -1,5 +1,18 @@
 <roms>
 	<rom>
+		<rom_name>3.0.1.G.0.75</rom_name>
+		<phone>x10</phone>
+		<dev>pvyParts and iridaki amd Sony</dev>
+		<github_name>pvyParts</github_name>
+		<github_branch>STOCK</github_branch>
+		<apps>true</apps>
+		<tweaks>false</tweaks>
+		<mods>false</mods>
+		<updates>false</updates>
+		<themes>false</themes>
+		<kernels>false</kernels>
+	</rom>
+	<rom>
 		<rom_name>T.E.A.M.</rom_name>
 		<phone>x10</phone>
 		<dev>pvyParts and iridaki</dev>
