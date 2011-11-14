@@ -1,14 +1,25 @@
 <apps>	    
 	<app>	    
-		<name>No Scripts Yet!</name>
-		<moddate>01/01/2000</moddate>
-		<credits>Someone!</credits>
-		<url>http://google.com</url>
-		<version>Pre Alpha!</version>
-		<description> </description>
+		<name>T.E.A.M xLOUD</name>
+		<moddate>14-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/AW5YGVCXOX</url>
+		<version>for 3.8 and up</version>
+		<description>xLOUD for T.E.A.M. ROM</description>
 		<files>
-			<file filename="*.*" location="system/etc/" perms="0644" appurl="http://android.magnificentblog.com/files/" md5="" />
+			<file filename="TEAM_xLoud.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/tweaks/TEAM_xLoud.zip" md5="431f0158b07842bc73e07e02000b3f5c" />
 		</files>
-	</app>
+		</app>	
+	<app>	    
+		<name>T.E.A.M xLOUD Purple</name>
+		<moddate>14-11-2011</moddate>
+		<credits>iridaki</credits>
+		<url>http://www.multiupload.com/AW5YGVCXOX</url>
+		<version>for 3.8 and up</version>
+		<description>xLOUD for Purple T.E.A.M. ROM</description>
+		<files>
+			<file filename="TEAM_xLoud_Purple.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/tweaks/TEAM_xLoud_Purple.zip" md5="311d09f78771ab8c393403ac98882f15" />
+		</files>
+		</app>	
 </apps>
 
