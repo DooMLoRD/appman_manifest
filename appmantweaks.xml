@@ -7,7 +7,7 @@
 		<version>for v3.8 and up</version>
 		<description>xLOUD for T.E.A.M. ROM</description>
 		<files>
-			<file filename="TEAM_xLoud.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/tweaks/TEAM_xLoud.zip" md5="431f0158b07842bc73e07e02000b3f5c" />
+			<file filename="TEAM_xLoud.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/tweaks/TEAM_xLoud.zip" md5="1b163d46e30ec4592e514dc66014b216" />
 		</files>
 		</app>	
 	<app>	    
@@ -18,7 +18,7 @@
 		<version>for v3.8 and up</version>
 		<description>xLOUD for Purple T.E.A.M. ROM</description>
 		<files>
-			<file filename="TEAM_xLoud_Purple.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/tweaks/TEAM_xLoud_Purple.zip" md5="311d09f78771ab8c393403ac98882f15" />
+			<file filename="TEAM_xLoud_Purple.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/tweaks/TEAM_xLoud_Purple.zip" md5="58c8e3e902697026fddd558afb9fc2fe" />
 		</files>
 		</app>	
 </apps>
