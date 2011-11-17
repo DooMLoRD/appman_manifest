@@ -1,5 +1,16 @@
 <apps>
 <app>	    
+		<name>TEAM V3.9 Update</name>
+		<moddate>17-11-2011</moddate>
+		<credits>pvyParts - iridaki</credits>
+		<url>http://www.mediafire.com/?to6n068u381qq6m</url>
+		<version>3.9</version>
+		<description>TEAM V3.8 - Battery Bar, Date View, andTheme Fixes</description>
+		<files>
+			<file filename="TEAM_ROM_v3.9.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_ROM_v3.9.zip" md5="8ef14369d76e1a35585e30146480eca7" />
+		</files>
+		</app>
+<app>	    
 		<name>TEAM V3.8</name>
 		<moddate>08-11-2011</moddate>
 		<credits>pvyParts - iridaki</credits>
