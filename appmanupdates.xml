@@ -7,7 +7,7 @@
 		<version>3.9</version>
 		<description>TEAM V3.8 - Battery Bar, Date View, andTheme Fixes</description>
 		<files>
-			<file filename="TEAM_ROM_v3.9.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_ROM_v3.9.zip" md5="8ef14369d76e1a35585e30146480eca7" />
+			<file filename="TEAM_ROM_v3.9.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_v3.9.zip" md5="8ef14369d76e1a35585e30146480eca7" />
 		</files>
 		</app>
 <app>	    
