@@ -17,7 +17,7 @@
 		<credits>TEAM</credits>
 		<url>http://google.com</url>
 		<version>TEAM v2.0</version>
-		<description>V2.0 Status Bar and notifications with Green Icons and Toggles </description>
+		<description>V3.9 Status Bar and notifications with Green Icons and Toggles </description>
 		<files>
 			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/greenSystemUI.apk" md5="44752cfab48fa0804e1bf02d9df2f165" />
 		</files>
@@ -28,7 +28,7 @@
 		<credits>TEAM</credits>
 		<url>http://google.com</url>
 		<version>TEAM v2.0</version>
-		<description>V2.0 Status Bar and notifications with Orange Icons and Toggles</description>
+		<description>V3.9 Status Bar and notifications with Orange Icons and Toggles</description>
 		<files>
 			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/orangeSystemUI.apk" md5="54ccc00cbe26a17286974a290b76970c" />
 		</files>
@@ -39,7 +39,7 @@
 		<credits>AyDee</credits>
 		<url>http://google.com</url>
 		<version>TEAM v2.0</version>
-		<description>V2.0 Status Bar and notifications with White Icons and Toggles</description>
+		<description>V3.9 Status Bar and notifications with White Icons and Toggles</description>
 		<files>
 			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/whiteSystemUI.apk" md5="70cfed9c45e319ffd331bb61ad565ee8" />
 		</files>
@@ -50,7 +50,7 @@
 		<credits>TEAM</credits>
 		<url>http://google.com</url>
 		<version>TEAM v2.0</version>
-		<description>V2.0 Status Bar and notifications with Red Icons and Toggles</description>
+		<description>V3.9 Status Bar and notifications with Red Icons and Toggles</description>
 		<files>
 			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/redSystemUI.apk" md5="ef209d2a74ba06083d464320fea404c5" />
 		</files>
@@ -61,7 +61,7 @@
 		<credits>TEAM</credits>
 		<url>http://google.com</url>
 		<version>TEAM v2.0</version>
-		<description>V2.0 Status Bar and notifications with Fuscia Icons and Toggles</description>
+		<description>V3.9 Status Bar and notifications with Fuscia Icons and Toggles</description>
 		<files>
 			<file filename="SystemUI.apk" location="system/app/" perms="0644" appurl="http://android.magnificentblog.com/files/mods/fusciaSystemUI.apk" md5="46c883e677cc64e45e9c3ede623a262f" />
 		</files>
