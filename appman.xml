@@ -1,8 +1,21 @@
 <roms>
 	<rom>
+		<rom_name>4.0.2.A.0.58</rom_name>
+		<phone>ARC</phone>
+		<dev>pvyParts and iridaki and Sony</dev>
+		<github_name>pvyParts</github_name>
+		<github_branch>STOCK</github_branch>
+		<apps>true</apps>
+		<tweaks>false</tweaks>
+		<mods>false</mods>
+		<updates>false</updates>
+		<themes>false</themes>
+		<kernels>false</kernels>
+	</rom>
+	<rom>
 		<rom_name>3.0.1.G.0.75</rom_name>
 		<phone>x10</phone>
-		<dev>pvyParts and iridaki amd Sony</dev>
+		<dev>pvyParts and iridaki and Sony</dev>
 		<github_name>pvyParts</github_name>
 		<github_branch>STOCK</github_branch>
 		<apps>true</apps>
