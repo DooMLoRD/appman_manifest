@@ -1,5 +1,18 @@
 <roms>
 	<rom>
+		<rom_name>T.E.A.M.v0</rom_name>
+		<phone>ARC</phone>
+		<dev>pvyParts and iridaki and Sony</dev>
+		<github_name>pvyParts</github_name>
+		<github_branch>TEAMX</github_branch>
+		<apps>true</apps>
+		<tweaks>true</tweaks>
+		<mods>true</mods>
+		<updates>true</updates>
+		<themes>true</themes>
+		<kernels>false</kernels>
+	</rom>
+	<rom>
 		<rom_name>4.0.2.A.0.58</rom_name>
 		<phone>ARC</phone>
 		<dev>pvyParts and iridaki and Sony</dev>
