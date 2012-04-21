@@ -22,8 +22,8 @@
 		<github_name>pvyParts</github_name>
 		<github_branch>xperia2012</github_branch>
 		<apps>true</apps>
-		<tweaks>true</tweaks>
-		<mods>true</mods>
+		<tweaks>false</tweaks>
+		<mods>false</mods>
 		<updates>true</updates>
 		<themes>true</themes>
 		<kernels>false</kernels>
