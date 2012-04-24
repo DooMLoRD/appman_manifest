@@ -16,7 +16,7 @@
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock ARC ICS Liveware Manager/description>
+		<description>Stock ARC ICS Liveware Manager <>/description>
 		<files>
 			<file filename="livewaremanager.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/livewaremanager.apk" md5="02db5d51e0db1e4cb2123bae99bb98fd" />
 		</files>
