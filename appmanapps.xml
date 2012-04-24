@@ -1,19 +1,50 @@
 <apps>	    
 	<app>	    
+		<name>Ant Radio Service</name>
+		<moddate>24-04-2012</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ARC ICS Ant Radio Service</description>
+		<files>
+			<file filename="antradioservice.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/antradioservice.apk" md5="73128a1254bedc85a1309bafa662fb5e" />
+		</files>
+	</app>
+	<app>	    
+		<name>Liveware Manager</name>
+		<moddate>24-04-2012</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ARC ICS Liveware Manager/description>
+		<files>
+			<file filename="livewaremanager.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/livewaremanager.apk" md5="02db5d51e0db1e4cb2123bae99bb98fd" />
+		</files>
+	</app>
+	<app>	    
 		<name>Stock Timescape</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Default Timescape APK's Only</description>
+		<description>Stock ICS Default Timescape APK's Only</description>
 		<files>
-			<file filename="TimescapeSpline.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/TimescapeSpline.apk" md5="9a932b22bc1781827843ed61057734c9" />
-			<file filename="TimescapeWidget.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/TimescapeWidget.apk" md5="a716edc78139264fd6ce79dbdbc9256e" />
-			<file filename="EventStream.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/EventStream.apk" md5="19524771f1caeb59035613834428c2b4" />
-			<file filename="EventStreamPluginCallLog.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/EventStreamPluginCallLog.apk" md5="c2a6127038f5c763309d005b418a4d35" />
-			<file filename="EventStreamPluginFacebook.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/EventStreamPluginFacebook.apk" md5="bbb2c8b3b67a4205460d7681b1484530" />
-			<file filename="EventStreamPluginTelephony.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/EventStreamPluginTelephony.apk" md5="f664bf02fb4c5c9a5f85017b4fa2e88c" />
-			<file filename="EventStreamPluginTwitter.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/EventStreamPluginTwitter.apk" md5="06921250d481b44bd0baa72ab7d117a6" />
+			<file filename="TimescapeSpline.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/TimescapeSpline.apk" md5="3f15765240973064ac00fc5f3c4e52b1" />
+			<file filename="TimescapeWidget.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/TimescapeWidget.apk" md5="5d1cd47b981e7b5f71feea01063b538e" />
+			<file filename="EventStream.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/EventStream.apk" md5="78ca34eae85650159ed125035a95702e" />
+			<file filename="EventStreamPluginCallLog.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/EventStreamPluginCallLog.apk" md5="cf5118b3c2b57a1847ad91f7135d95a6" />
+			<file filename="EventStreamPluginTelephony.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/EventStreamPluginTelephony.apk" md5="bb2ff18e76386c54ac385fe3e13ba911" />
+		</files>
+	</app>
+	<app>	    
+		<name>Neoreader</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ICS Neoreader App</description>
+		<files>
+			<file filename="neoreader.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/neoreader.apk" md5="45db43e766f46dd6532b9dd83f2a0e98" />	
 		</files>
 	</app>
 	<app>	    
@@ -22,9 +53,9 @@
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Document Viewer</description>
+		<description>Stock ICS Document Viewer</description>
 		<files>
-			<file filename="officesuite.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/officesuite.apk" md5="3e89a7b838e9304e974546d6f16e3442" />
+			<file filename="officesuite.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/officesuite.apk" md5="9eaa91c36d735c514f2fa53e47838bb9" />
 		</files>
 	</app>
 	<app>	    
@@ -35,31 +66,88 @@
 		<version>Stock ARC</version>
 		<description>Stock GB Track ID</description>
 		<files>
-			<file filename="trackid.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/trackid.apk" md5="624b08703cf3a319c46bf8fdaa7c3cae" />
+			<file filename="trackid.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/trackid.apk" md5="3d9a0fb06bf04af330e05c5724ee073c" />
+		</files>
+	</app>
+	
+	<app>	    
+		<name>Digital Clock Widget</name>
+		<moddate>24-04-2012</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ARC ICS Digital Clock Widget</description>
+		<files>
+			<file filename="DigitalClockWidget.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/DigitalClockWidget.apk" md5="aa0eef456d092b705c404133a58063b3" />
 		</files>
 	</app>
 	<app>	    
-		<name>Sony Weather Widget</name>
+		<name>Stock Analog Clock Widget</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Weather Widget</description>
+		<description>Stock ICS Analog Clock Widget</description>
 		<files>
-			<file filename="GenieWidget.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/GenieWidget.apk" md5="26f5c9a1ac06822b3ce52d635c652d7d" />
+			<file filename="widgetanalogclock.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgetanalogclock.apk" md5="9398e7df44ceb8a661a797548e96f681" />
 		</files>
-	</app>
+	</app>	
 	<app>	    
-		<name>Sony Photo Widget</name>
+		<name>Stock Calendar Widget</name>
 		<moddate>09-09-2011</moddate>
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Photo Widget</description>
+		<description>Stock ICS Calendar Widget</description>
 		<files>
-			<file filename="PhotoWidget.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/PhotoWidget.apk" md5="8142c73f9b288ad209974653870c68a0" />
+			<file filename="widgetcalendar.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgetcalendar.apk" md5="cffbf80df825724ca6ba9ee7cb59b6e1" />
 		</files>
 	</app>
+	<app>	    
+		<name>Stock Digital Clock Widget</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock GB Analog Clock</description>
+		<files>
+			<file filename="widgetdigitalclock.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgetdigitalclock.apk" md5="6926f4d8b891e888342d681f342f9791" />
+		</files>
+	</app>
+	<app>	    
+		<name>Stock Toggle Widget</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ICS Toggle Widget</description>
+		<files>
+			<file filename="widgetonoff.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgetonoff.apk" md5="8358de187a7e9ac27daba06d2b586754" />
+		</files>
+	</app>
+	<app>	    
+		<name>Stock Timer Widget</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ICS Timer Widget</description>
+		<files>
+			<file filename="widgettimer.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgettimer.apk" md5="58e9ddcc5d4781ba7c766eb2a8ef61fc" />
+		</files>
+	</app>
+	<app>	    
+		<name>Stock Timer Widget</name>
+		<moddate>09-09-2011</moddate>
+		<credits>Sony Ericsson</credits>
+		<url>http://google.com</url>
+		<version>Stock ARC</version>
+		<description>Stock ICS Timer Widget</description>
+		<files>
+			<file filename="widgetworldclock.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgetworldclock.apk" md5="7d603b8011482287269d711200bee532" />
+		</files>
+	</app>
+	
 	<app>	    
 		<name>Sony Chinese Keyboard</name>
 		<moddate>09-09-2011</moddate>
@@ -68,9 +156,10 @@
 		<version>Stock ARC</version>
 		<description>Stock GB Chinese Keyboard</description>
 		<files>
-			<file filename="chinesetextinput.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/chinesetextinput.apk" md5="eb0f3b0e0c1f365f1c69dcf8ec7e0929" />	
+			<file filename="chinesetextinput.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/chinesetextinput.apk" md5="b0f948fac5a6ec3a9638254720e9937d" />	
 		</files>
 	</app>
+	
 	<app>	    
 		<name>Sony Japanese Keyboard</name>
 		<moddate>09-09-2011</moddate>
@@ -79,9 +168,9 @@
 		<version>Stock ARC</version>
 		<description>Stock GB Japanese Keyboard and Themes</description>
 		<files>
-		  <file filename="JapaneseIME.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/JapaneseIME.apk" md5="bdb06a85568061929c29ed325e4e78a7" />
-		  <file filename="POBoxSknPink.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/POBoxSknPink.apk" md5="4c9af5c6d30a62098396fdbe8b1686b3" />
-		  <file filename="POBoxSknWood.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/POBoxSknWood.apk" md5="331c60b573a721c042bb6b778d3ccf06" />
+		  <file filename="JapaneseIME.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/JapaneseIME.apk" md5="a77875c13d40d82f05aa2a9162dde27a" />
+		  <file filename="POBoxSknPink.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/POBoxSknPink.apk" md5="4c9af5c6d30a62098396fdbe8b1686b3" />
+		  <file filename="POBoxSknWood.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/POBoxSknWood.apk" md5="331c60b573a721c042bb6b778d3ccf06" />
 		</files>
 	</app>
 	
@@ -91,12 +180,10 @@
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Bloatware add this back in if you are having Issues!</description>
+		<description>Stock ICS Bloatware not realy sure what alot of this does. Add this back in if you are having Issues!</description>
 		<files>
-		  <file filename="qcsemcservice.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/qcsemcservice.apk" md5="7812d7777709b4fb267d5964c13cd919" />
-		  <file filename="IddAgent.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/IddAgent.apk" md5="67baac417e867375d7adad4b2b612cd3" />
-		  <file filename="LearningClient.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/LearningClient.apk" md5="83844fadd06a8bc02d08a2d2524ee3f1" />	
-		  <file filename="SemcCrashMonitor.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/SemcCrashMonitor.apk" md5="ab9dce8b5f5b429aea89da7089f27519" />
+		  <file filename="OmaDatasyncService.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/OmaDatasyncService.apk" md5="990a9b2bebf4cd63243d78063a5c7371" />
+		  <file filename="SemcCrashMonitor.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/SemcCrashMonitor.apk" md5="e957afbdb25fcc2afdbd3d70cea42d5d" />
 		</files>
 	</app>
 </apps>
