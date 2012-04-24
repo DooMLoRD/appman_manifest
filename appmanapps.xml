@@ -109,7 +109,7 @@
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Analog Clock</description>
+		<description>Stock ICS Analog Clock</description>
 		<files>
 			<file filename="widgetdigitalclock.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/widgetdigitalclock.apk" md5="6926f4d8b891e888342d681f342f9791" />
 		</files>
@@ -154,7 +154,7 @@
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Chinese Keyboard</description>
+		<description>Stock ICS Chinese Keyboard</description>
 		<files>
 			<file filename="chinesetextinput.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011/apps/chinesetextinput.apk" md5="b0f948fac5a6ec3a9638254720e9937d" />	
 		</files>
@@ -166,7 +166,7 @@
 		<credits>Sony Ericsson</credits>
 		<url>http://google.com</url>
 		<version>Stock ARC</version>
-		<description>Stock GB Japanese Keyboard and Themes</description>
+		<description>Stock ICS Japanese Keyboard and Themes</description>
 		<files>
 		  <file filename="JapaneseIME.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/JapaneseIME.apk" md5="a77875c13d40d82f05aa2a9162dde27a" />
 		  <file filename="POBoxSknPink.apk" location="system/app/" perms="0644" appurl="http://goo.im/devs/pvyParts/appman/2011ICS/apps/POBoxSknPink.apk" md5="4c9af5c6d30a62098396fdbe8b1686b3" />
