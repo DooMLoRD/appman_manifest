@@ -1,5 +1,21 @@
 <roms>
 	<rom>
+		<rom_name>MooDed</rom_name>
+		<phone>ARC</phone>
+		<dev>ChaosFirZen</dev>
+		<github_name>pvyParts</github_name>
+		<github_branch>xperia2012</github_branch>
+		<apps>true</apps>
+		<tweaks>false</tweaks>
+		<mods>false</mods>
+		<updates>false</updates>
+		<themes>false</themes>
+		<kernels>false</kernels>
+		<description>Stock Apps for ChaosFirZen Roms</description>
+		<credits>pvyParts</credits>
+		<thread>http://forum.xda-developers.com/showthread.php?t=1526717</thread>
+	</rom>
+	<rom>
 		<rom_name>4.1.A.0.562</rom_name>
 		<phone>ARC</phone>
 		<dev>pvyParts and iridaki</dev>
