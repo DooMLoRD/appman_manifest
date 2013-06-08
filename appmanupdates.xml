@@ -1,6 +1,17 @@
 <apps>
 
 	<app>	    
+		<name>ADB Fastboot ASM Kit</name>
+		<moddate>2013-05-23</moddate>
+		<credits>DooMLoRD</credits>
+		<url>http://forum.xda-developers.com</url>
+		<version>1.0</version>
+		<description>Generic ASM</description>
+		<files>
+			<file filename="adb_fastboot_asm.zip" location="sdcard/kernels/" perms="0644" appurl="http://doomlord.sylvester20007.com/adb_fastboot_asm.zip" md5="0124281f9d6a8f178338db34ace32517" />
+		</files>
+	</app>
+	<app>	    
 		<name>DooMKernel</name>
 		<moddate>2013-05-23</moddate>
 		<credits>DooMLoRD</credits>
