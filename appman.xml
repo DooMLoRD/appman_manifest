@@ -1,9 +1,9 @@
 <roms>
 	<rom>
-		<rom_name>MooDeD ICS</rom_name>
-		<phone>ARC</phone>
-		<dev>ChaosFirZen</dev>
-		<github_name>pvyParts</github_name>
+		<rom_name>9.1.A.1.140</rom_name>
+		<phone>LT30p</phone>
+		<dev>Sony</dev>
+		<github_name>DooMLoRD</github_name>
 		<github_branch>xperia2012</github_branch>
 		<apps>true</apps>
 		<tweaks>true</tweaks>
@@ -11,105 +11,8 @@
 		<updates>true</updates>
 		<themes>true</themes>
 		<kernels>true</kernels>
-		<description>Some Goodies For MooDeD ICS Rom Official</description>
-		<credits>pvyParts And ChaosFirZen</credits>
-		<thread>http://forum.xda-developers.com/showthread.php?t=1526717</thread>
-	</rom>
-	<rom>
-		<rom_name>4.1.A.0.562</rom_name>
-		<phone>ARC</phone>
-		<dev>pvyParts and iridaki</dev>
-		<github_name>pvyParts</github_name>
-		<github_branch>xperia2012</github_branch>
-		<apps>true</apps>
-		<tweaks>false</tweaks>
-		<mods>false</mods>
-		<updates>false</updates>
-		<themes>false</themes>
-		<kernels>false</kernels>
-		<description>AppMan for Stock Sony ICS.</description>
-		<credits>pvyParts and Iridaki</credits>
-		<thread>http://forum.xda-developers.com/forumdisplay.php?f=966</thread>
-	</rom>
-	<rom>
-		<rom_name>T.E.A.M.v0</rom_name>
-		<phone>ARC</phone>
-		<dev>pvyParts and iridaki</dev>
-		<github_name>pvyParts</github_name>
-		<github_branch>xperia2012</github_branch>
-		<apps>true</apps>
-		<tweaks>true</tweaks>
-		<mods>true</mods>
-		<updates>true</updates>
-		<themes>true</themes>
-		<kernels>false</kernels>
-		<description>T.E.A.M. Rom for Xperia 2011 Devices.</description>
-		<credits>pvyParts and Iridaki</credits>
-		<thread>http://forum.xda-developers.com/showthread.php?t=1507251</thread>
-	</rom>
-	<rom>
-		<rom_name>4.0.2.A.0.58</rom_name>
-		<phone>ARC</phone>
-		<dev>pvyParts and iridaki and Sony</dev>
-		<github_name>iridaki</github_name>
-		<github_branch>STOCK</github_branch>
-		<apps>true</apps>
-		<tweaks>false</tweaks>
-		<mods>false</mods>
-		<updates>false</updates>
-		<themes>false</themes>
-		<kernels>false</kernels>
-	</rom>
-	<rom>
-		<rom_name>3.0.1.G.0.75</rom_name>
-		<phone>x10</phone>
-		<dev>pvyParts and iridaki and Sony</dev>
-		<github_name>pvyParts</github_name>
-		<github_branch>STOCK</github_branch>
-		<apps>true</apps>
-		<tweaks>false</tweaks>
-		<mods>false</mods>
-		<updates>false</updates>
-		<themes>false</themes>
-		<kernels>false</kernels>
-	</rom>
-	<rom>
-		<rom_name>T.E.A.M.</rom_name>
-		<phone>x10</phone>
-		<dev>pvyParts and iridaki</dev>
-		<github_name>pvyParts</github_name>
-		<github_branch>TEAM</github_branch>
-		<apps>true</apps>
-		<tweaks>true</tweaks>
-		<mods>true</mods>
-		<updates>true</updates>
-		<themes>true</themes>
-		<kernels>true</kernels>
-	</rom>
-	<rom>
-		<rom_name>ThGo2</rom_name>
-		<phone>x10</phone>
-		<dev>thJap</dev>
-		<github_name>hayashikejinan</github_name>
-		<github_branch>master</github_branch>
-		<apps>true</apps>
-		<tweaks>true</tweaks>
-		<mods>true</mods>
-		<updates>true</updates>
-		<themes>true</themes>
-		<kernels>true</kernels>
-	</rom>
-	<rom>
-		<rom_name>Wolf_Xperia</rom_name>
-		<phone>x10</phone>
-		<dev>Wolfbreak</dev>
-		<github_name>Wolfbreak</github_name>
-		<github_branch>master</github_branch>
-		<apps>true</apps>
-		<tweaks>true</tweaks>
-		<mods>true</mods>
-		<updates>true</updates>
-		<themes>true</themes>
-		<kernels>true</kernels>
+		<description>Testing</description>
+		<credits>Test</credits>
+		<thread>http://forum.xda-developers.com/</thread>
 	</rom>
 </roms>
