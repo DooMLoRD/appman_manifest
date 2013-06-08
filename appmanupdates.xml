@@ -1,80 +1,14 @@
 <apps>
-	    
-<app>	    
-		<name>TEAM V3.8</name>
-		<moddate>08-11-2011</moddate>
-		<credits>pvyParts - iridaki</credits>
-		<url>http://www.multiupload.com/X3SZC7YUJ6</url>
-		<version>3.8</version>
-		<description>TEAM V3.8 - New Custom Fonts for Tweaks - Bugfixes, Optimizations</description>
-		<files>
-			<file filename="TEAM_ROM_v3.8.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_ROM_v3.8.zip" md5="e334998af45a07804f9fcf8303dde55e" />
-		</files>
-		</app>
+
 	<app>	    
-		<name>TEAM ThKernel Rev07 (xRecovery)</name>
-		<moddate>08-11-2011</moddate>
-		<credits>ThJap</credits>
-		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
-		<version>Revision 07</version>
-		<description>ThKernel - xRecovery version - Flash in xRecovery</description>
+		<name>DooMKernel</name>
+		<moddate>2013-05-23</moddate>
+		<credits>DooMLoRD</credits>
+		<url>http://forum.xda-developers.com/showthread.php?t=2170580</url>
+		<version>7</version>
+		<description>DooMKernel v07 for Xperia T</description>
 		<files>
-			<file filename="xRec_ThJapRev07.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/xRec_ThJapRev07.zip" md5="6887873bcbab820b5bf4f8eed8650c99" />
-		</files>
-		</app>	
-	<app>	    
-		<name>TEAM ThKernel Rev07 (BOOTMANAGER)</name>
-		<moddate>08-11-2011</moddate>
-		<credits>ThJap</credits>
-		<url>http://forum.xda-developers.com/member.php?u=4118659</url>
-		<version>Revision 07</version>
-		<description>ThKernel - Boot Manager version - Select in Boot Manager</description>
-		<files>
-			<file filename="BootMgr_ThJapRev07.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BootMgr_ThJapRev07.zip" md5="ea270ef445b891d27deb081687ee576c" />
-		</files>
-		</app>	
-		<app>	    
-		<name>New Android Market v3.3.11</name>
-		<moddate>02-11-2011</moddate>
-		<credits>iridaki</credits>
-		<url>http://www.multiupload.com/3Y299TZJR8</url>
-		<version>v3.3.11</version>
-		<description>The all new Android Market by Google!</description>
-		<files>
-			<file filename="NewMarket_v3311.zip" location="sdcard/appman" perms="0644" appurl="http://android.magnificentblog.com/files/updates/NewMarket_v3311.zip" md5="9648875f409d15344989172dfe4d5fc1" />
-		</files>
-		</app>	
-	<app>	    
-		<name>TEAM V3 ThKernel (BOOTMANAGER)</name>
-		<moddate>12-10-2011</moddate>
-		<credits>pvyParts, iridaki, ThJap</credits>
-		<url>http://google.com</url>
-		<version>v3</version>
-		<description>TEAM V3 powered by ThKernel - Boot Manager version - Select in Boot Manager</description>
-		<files>
-			<file filename="BM_2.3Th_kernel_029e.zip" location="sdcard/kernels/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/BM_2.3Th_kernel_029e.zip" md5="271c1fb5b0dad535c32edc36a8691bea" />
-		</files>
-		</app>	
-	<app>	    
-		<name>TEAM V3 ThKernel (STOCK)</name>
-		<moddate>12-10-2011</moddate>
-		<credits>pvyParts, iridaki, ThJap</credits>
-		<url>http://google.com</url>
-		<version>v3</version>
-		<description>TEAM V3 powered by ThKernel - stock kernel version - Flash in xRecovery</description>
-		<files>
-			<file filename="ST_Th_kernel_029e6.zip" location="sdcard/appman/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/ST_Th_kernel_029e6.zip" md5="632ffe7b4b07654061c238f98c3362cb" />
-		</files>
-	</app>	  	
-	<app>	    
-		<name>FBiX v2 - BETA</name>
-		<moddate>06-10-2011</moddate>
-		<credits>Iridaki</credits>
-		<url>http://google.com</url>
-		<version>v2 BETA2</version>
-		<description>TEAM_FBiX2_beta2.zip Beta Full FBiX v2 compatible with TEAM. Flash from xRecovery</description>
-		<files>
-			<file filename="TEAM_FBiX2_beta2.zip" location="sdcard/" perms="0644" appurl="http://android.magnificentblog.com/files/updates/TEAM_FBiX2_beta2.zip" md5="10fda34a9a7ee707d16561c2bda321d1" />
+			<file filename="T-DooMKernel-v07.zip" location="sdcard/kernels/" perms="0644" appurl="http://goo.im/devs/pvyParts/xperia_t/T-DooMKernel-v07.zip" md5="22a491bd12478513b155b8e6f680cd9c" />
 		</files>
 	</app>
 </apps>
