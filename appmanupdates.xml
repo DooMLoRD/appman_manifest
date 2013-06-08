@@ -8,7 +8,7 @@
 		<version>7</version>
 		<description>DooMKernel v07 for Xperia T</description>
 		<files>
-			<file filename="T-DooMKernel-v07.zip" location="sdcard/kernels/" perms="0644" appurl="http://goo.im/devs/pvyParts/xperia_t/T-DooMKernel-v07.zip" md5="22a491bd12478513b155b8e6f680cd9c" />
+			<file filename="T-DooMKernel-v07.zip" location="sdcard/kernels/" perms="0644" appurl="http://goo.im/devs/DooMLoRD/xperia_t/T-DooMKernel-v07.zip" md5="22a491bd12478513b155b8e6f680cd9c" />
 		</files>
 	</app>
 </apps>
